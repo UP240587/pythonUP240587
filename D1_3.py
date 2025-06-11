@@ -6,7 +6,7 @@ complex = 2 + 3j               #(complejo)
 
 cadena = "Hola, mundo"            # (cadena de texto)
 
-bool = True                   #(booleano, puede ser True o False
+bool = True                   #booleano
 
 lista = [1, 2, 3, "a", "b"]       #(lista)
 
